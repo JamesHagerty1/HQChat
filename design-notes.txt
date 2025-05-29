@@ -2,3 +2,11 @@ Design Notes
 
 - Using Vue.js because it is widely adopted and provides the best developer
   experience for working on non-trivial frontends.
+
+- Using an Express.js backend because, as a solo developer, using one language
+  will make things a lot easier. Also prefer not to use a framework because I
+  like feeling in control of my code. Developer happiness, pretty much.
+
+- Also not using TypeScript because using vanilla JavaScript will make
+  prototyping easier. And TypeScript is ugly and provides a questionable
+  developer experience. Developer happiness, pretty much.
