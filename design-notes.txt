@@ -1,0 +1,4 @@
+Design Notes
+
+- Using Vue.js because it is widely adopted and provides the best developer
+  experience for working on non-trivial frontends.
