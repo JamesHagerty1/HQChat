@@ -10,3 +10,8 @@ Design Notes
 - Also not using TypeScript because using vanilla JavaScript will make
   prototyping easier. And TypeScript is ugly and provides a questionable
   developer experience. Developer happiness, pretty much.
+
+- Using all vanilla JavaScript also means I can reduce the cognitive overhead
+  of using various tools while prototyping a richly featured app (in its
+  entirety) for the first time. Will make it easier to learn the important
+  stuff, not less important things like tooling.
