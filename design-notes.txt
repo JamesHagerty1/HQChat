@@ -15,3 +15,9 @@ Design Notes
   of using various tools while prototyping a richly featured app (in its
   entirety) for the first time. Will make it easier to learn the important
   stuff, not less important things like tooling.
+
+- Going with the structure of a framework for frontend (Vue with Options API)
+  because frontend becomes chaotic easily. Going with the freedom of a small
+  backend library (Express.js) so that a backend framework won't get in my way.
+
+- Using JWT for auth because it's flexible and easy to implement.
